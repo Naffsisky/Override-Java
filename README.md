@@ -1,6 +1,6 @@
 ## Output
 
-### V1
+### V1.0
 
 ```
 Hai, saya <nama> dan umur saya <umur> tahun
@@ -15,3 +15,7 @@ Saya adalah Dokter dengan spesialis <spesialis> dan keahlian <skill>
 Saya sudah berpengalaman selama <pengalaman> tahun dalam spesialis 
 <spesialis>
 ```
+
+### V1.1
+
+[+] Scanner
