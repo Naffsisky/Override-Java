@@ -12,10 +12,7 @@ import java.util.Scanner;
 public class TugasOverriding {
 
     public static void main(String[] args) {
-        System.out.println("Masukan nama Pasien");
-        Scanner input = new Scanner(System.in);
-        String namaPasien = input.nextLine();
-        Pasien pasien1 = new Pasien(namaPasien, 18);
+        Pasien pasien1 = new Pasien("Dhany", 18);
         pasien1.perkenalan();
         pasien1.role();
         System.out.println("----");
